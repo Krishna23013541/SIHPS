@@ -31,12 +31,13 @@ Ministry of Environment
    to e-waste management.
 11.Feedback Mechanism: Inclusion of a feedback mechanism to collect user input and improve the system continuously based on user experiences and suggestions.
 ## Proposed Solution / Architecture Diagram
-![alt text](image.png)
+![image1](https://github.com/Krishna23013541/SIHPS/assets/149557764/bd348419-ed4c-4bbe-9603-25782a10d636)
 
 ## Use Cases
-![alt text](image-1.png)
+![image2](https://github.com/Krishna23013541/SIHPS/assets/149557764/89f03563-e29e-41ce-b53c-628669a8e4a5)
+
 ## Technology Stack
-![alt text](image-2.png)
+![image3](https://github.com/Krishna23013541/SIHPS/assets/149557764/a317b9c6-eea3-45e8-bcd5-278ac122d43e)
 
  1.Frontend Development: HTML/CSS: For structuring and styling the website. JavaScript: For client-side interactivity and functionality. React.js or Angular.js: Popular frontend frameworks for building dynamic 
    user interfaces. Mapping Library (e.g., Google Maps API): For displaying the locations of e-waste facilities on a map.
